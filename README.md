@@ -11,10 +11,10 @@ Calculatorfa
 
 
 <h3 align="center">
-  <a href="https://github.com/mellobacon/Nucleus/blob/d704ed7892344480fb6fcd3c94ef534f52cadc31/LICENSE">License</a> •
+  <a href="https://github.com/Foshati/Calculatorfa?tab=GPL-3.0-1-ov-file#">License</a> •
   <a href="https://github.com/mellobacon/Nucleus/releases">Download</a> •
   <a href="https://github.com/mellobacon/Nucleus/blob/master/CONTRIBUTING.md">How to Contribute</a> •
-  <a href="https://github.com/mellobacon/Nucleus/blob/master/CODE_OF_CONDUCT.md">Code of Conduct</a>
+  <a href="https://github.com/Foshati/Calculatorfa?tab=coc-ov-file#">Code of Conduct</a>
 </h3>
 
 ___
