@@ -12,9 +12,9 @@ Calculatorfa
 
 <h3 align="center">
   <a href="https://github.com/Foshati/Calculatorfa?tab=GPL-3.0-1-ov-file#">License</a> •
-  <a href="https://github.com/mellobacon/Nucleus/releases">Download</a> •
-  <a href="https://github.com/mellobacon/Nucleus/blob/master/CONTRIBUTING.md">How to Contribute</a> •
-  <a href="https://github.com/Foshati/Calculatorfa?tab=coc-ov-file#">Code of Conduct</a>
+  <a href="https://github.com/Foshati/Calculatorfa/releases/tag/v1.0.0">Download</a> •
+  <a href="https://github.com/Foshati/Calculatorfa/blob/main/CONTRIBUTING.md">How to Contribute</a> •
+  <a href="https://github.com/Foshati/Calculatorfa/blob/main/CODE_OF_CONDUCT.md">Code of Conduct</a>
 </h3>
 
 ___
@@ -40,4 +40,4 @@ This template is the foundation for building Calculatorfa with Tauri and React i
 
 ## Recommended IDE Setup
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) +[React](https://react.dev/) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer) 
