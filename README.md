@@ -11,7 +11,7 @@ Calculatorfa
 
 
 <h3 align="center">
-  <a href="https://github.com/Foshati/Calculatorfa?tab=GPL-3.0-1-ov-file#">License</a> •
+  <a href="https://github.com/Foshati/Calculatorfa/blob/main/LICENSE">License</a> •
   <a href="https://github.com/Foshati/Calculatorfa/releases/tag/v1.0.0">Download</a> •
   <a href="https://github.com/Foshati/Calculatorfa/blob/main/CONTRIBUTING.md">How to Contribute</a> •
   <a href="https://github.com/Foshati/Calculatorfa/blob/main/CODE_OF_CONDUCT.md">Code of Conduct</a>
